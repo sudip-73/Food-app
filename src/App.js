@@ -9,6 +9,7 @@ const App=()=> {
 const [ cartshow, setCartShow]=useState(false);
 
 const ShowmeCart=()=>{
+  // Cart is show
   setCartShow(true);
 }
 const NotShowCart=()=>{
